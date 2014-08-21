@@ -45,4 +45,25 @@ public class TwosPower {
     public int set_leastSignificantBit(int element) {
         return (element & ~(element - 1));
     }
+
+    public int getNumberOfBitsSet_inefficient(int element) {
+        int comparer = 0x1;
+        int counter = 0;
+        for (int i = 0; i < 32; i++) {
+            if ((comparer & element) == 1) {
+                counter++;
+            }
+            comparer = comparer << 1;
+        }
+        return counter;
+    }
+
+    public int getNumberOfBitSet_Good(int element) {
+        int counter = 0;
+        while (element != 0) {
+            element = clearing_leastSignificantBit(element);
+            counter++;
+        }
+        return counter;
+    }
 }

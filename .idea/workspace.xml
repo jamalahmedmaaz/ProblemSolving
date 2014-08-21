@@ -29,8 +29,8 @@
       <file leaf-file-name="TwosPower.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/TwosPower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9064125" vertical-offset="287" max-vertical-offset="972">
-              <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.78162915" vertical-offset="647" max-vertical-offset="1350">
+              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
               <folding>
                 <element signature="e#1132#1133#0" expanded="true" />
                 <element signature="e#1180#1181#0" expanded="true" />
@@ -304,7 +304,11 @@
       <created>1408645470825</created>
       <updated>1408645470825</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="TwosPower better solution">
+      <created>1408646165129</created>
+      <updated>1408646165129</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -369,8 +373,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TwosPower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9064125" vertical-offset="287" max-vertical-offset="972">
-          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.78162915" vertical-offset="647" max-vertical-offset="1350">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
           <folding>
             <element signature="e#1132#1133#0" expanded="true" />
             <element signature="e#1180#1181#0" expanded="true" />
