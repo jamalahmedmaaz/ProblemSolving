@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f39802-bef8-4cdf-8116-7a8f80216063" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/TwosPower.java" afterPath="$PROJECT_DIR$/src/main/java/TwosPower.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Folding.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProblemSolving.iws" />
@@ -26,17 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TwosPower.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TwosPower.java">
+      <file leaf-file-name="Folding.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Folding.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78162915" vertical-offset="647" max-vertical-offset="1350">
-              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
-              <folding>
-                <element signature="e#1132#1133#0" expanded="true" />
-                <element signature="e#1180#1181#0" expanded="true" />
-                <element signature="e#1235#1236#0" expanded="true" />
-                <element signature="e#1284#1285#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.7175043" vertical-offset="18" max-vertical-offset="612">
+              <caret line="24" column="82" selection-start-line="24" selection-start-column="82" selection-end-line="24" selection-end-column="82" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,6 +51,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/TwoPower.java" />
         <option value="$PROJECT_DIR$/src/main/java/TwosPower.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Folding.java" />
       </list>
     </option>
   </component>
@@ -308,7 +305,11 @@
       <created>1408646165129</created>
       <updated>1408646165129</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Counting Bits.">
+      <created>1408646826545</created>
+      <updated>1408646826545</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -357,7 +358,8 @@
     </option>
     <MESSAGE value="TwosPower" />
     <MESSAGE value="TwosPower better solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="TwosPower better solution" />
+    <MESSAGE value="Counting Bits." />
+    <option name="LAST_COMMIT_MESSAGE" value="Counting Bits." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -373,7 +375,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TwosPower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78162915" vertical-offset="647" max-vertical-offset="1350">
+        <state vertical-scroll-proportion="0.0" vertical-offset="647" max-vertical-offset="1350">
           <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
           <folding>
             <element signature="e#1132#1133#0" expanded="true" />
@@ -381,6 +383,22 @@
             <element signature="e#1235#1236#0" expanded="true" />
             <element signature="e#1284#1285#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.031914894" vertical-offset="0" max-vertical-offset="7254">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Folding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7175043" vertical-offset="18" max-vertical-offset="612">
+          <caret line="24" column="82" selection-start-line="24" selection-start-column="82" selection-end-line="24" selection-end-column="82" />
+          <folding />
         </state>
       </provider>
     </entry>
