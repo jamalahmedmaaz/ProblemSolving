@@ -37,4 +37,12 @@ public class TwosPower {
         // element & (element-1) is clearing last bit
         return 0 == (element & (element - 1));
     }
+
+    public int clearing_leastSignificantBit(int element) {
+        return (element & (element - 1));
+    }
+
+    public int set_leastSignificantBit(int element) {
+        return (element & ~(element - 1));
+    }
 }
