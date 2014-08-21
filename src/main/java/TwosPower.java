@@ -30,4 +30,9 @@ public class TwosPower {
         }
         return bitCount == 1;
     }
+
+    public boolean isTwosPower_GoodSolution(int element) {
+        // element & (element-1) is counting of bits
+        return 0 == (element & (element - 1));
+    }
 }
