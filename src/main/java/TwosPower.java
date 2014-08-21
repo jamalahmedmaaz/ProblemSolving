@@ -32,6 +32,8 @@ public class TwosPower {
     }
 
     public boolean isTwosPower_GoodSolution(int element) {
+        // (element -1) will get an element whose last bit is set
+        // if the element was 2'power else last bit not set if it is not a 2'power
         // element & (element-1) is clearing last bit
         return 0 == (element & (element - 1));
     }
