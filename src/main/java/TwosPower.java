@@ -32,7 +32,7 @@ public class TwosPower {
     }
 
     public boolean isTwosPower_GoodSolution(int element) {
-        // element & (element-1) is counting of bits
+        // element & (element-1) is clearing last bit
         return 0 == (element & (element - 1));
     }
 }
